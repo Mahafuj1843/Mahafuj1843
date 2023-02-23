@@ -58,5 +58,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mahafuj1843&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>
 <div align="center">
-<img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Mahafuj1843" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahafuj1843&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>
