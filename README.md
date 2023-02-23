@@ -57,5 +57,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mahafuj1843&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
 </div>
+<div align="center">
+<img src="https://github.com/Mahafuj1843/github-readme-stats&show_icons=true&count_private=true&hide_border=false&theme=dark" align="center"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahafuj1843)](https://github.com/Mahafuj1843/github-readme-stats)
