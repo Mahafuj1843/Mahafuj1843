@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahafujul Alam Chowdhury</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 - 💯 Portfolio webite [Mahafuj](https://mahafuj-chowdhury.netlify.app/)
 - 📄 Know about my experiences [Resume](#)
 - 📫 How to reach me **md.mahafuj012@gmail.com**
-- 🌱 I’m currently learning **Redux and TypeScript**
+- 🌱 I’m currently learning **TypeScript and GraphQL**
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Mahafuj1843?tab=repositories)
 
 
